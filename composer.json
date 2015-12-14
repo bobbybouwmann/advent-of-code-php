@@ -1,0 +1,13 @@
+{
+    "name": "bobbybouwmann/advent-of-code-php",
+    "description": "Advent of Code 2015 with PHP",
+    "require": {
+        "phpunit/phpunit": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Bobby Bouwmann",
+            "email": "bobbybouwmann@gmail.com"
+        }
+    ]
+}
